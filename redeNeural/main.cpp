@@ -17,6 +17,7 @@ int main()
        rede->iMA_buf.push_back(0);
        rede->iMA_buf.push_back(1);
 
+
        rede->weight.push_back(100);
        rede->weight.push_back(50);
        rede->weight.push_back(50);
